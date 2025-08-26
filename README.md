@@ -1,5 +1,4 @@
 📘 CS470 – Data Mining (Spring 2025)
-Instructor: Prof. Kai Shu
 University: Emory University
 Language: Python
 Topics: Pattern Mining, Clustering, Regression, Forecasting
